@@ -6,4 +6,4 @@ This repository contains a concordance between the two citation schemes used for
 * Kaibel citation-scheme - this system was introduced by Georg Kaibel (1887): each book is logically divided into paragraphs corresponding to units of sense and the paragraphs are referred to with arabic numerals whose numeration starts again at the
 beginning of each book (e.g., *Deipn*. 12.40).
 
-Contents of this repository are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+Contents of this repository are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
