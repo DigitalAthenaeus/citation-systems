@@ -7,4 +7,4 @@ This repository of the [Digital Athenaeus](http://digitalathenaeus.github.io/) p
 
 * Use the [Casaubon-Kaibel reference converter](http://www.digitalathenaeus.org) for automatically finding concordances between the two systems.
 
-Contents of this repository are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Contents of this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
