@@ -1,4 +1,4 @@
-# citation-schemes
+# citation-systems
 
 This repository of the [Digital Athenaeus](http://digitalathenaeus.github.io/) project contains a concordance between the numerations used in the two editions of the 15 books of the *Deipnosophists* of Athenaeus of Naucratis by Isaac Casaubon and Georg Kaibel:
 
