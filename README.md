@@ -6,5 +6,6 @@ This repository of the [Digital Athenaeus](http://digitalathenaeus.github.io/) p
 * Kaibel reference system - this system was introduced by Georg Kaibel in his edition of the *Deipnosophists* [(1887-1890)](https://archive.org/details/athenaeinavcrati01atheuoft): in this system each book is logically divided into paragraphs corresponding to units of sense and the paragraphs are referred to with arabic numerals whose numeration starts again at the beginning of each book (e.g., *Deipn*. 12.40).
 
 * Use the [Casaubon-Kaibel reference converter](http://www.digitalathenaeus.org) for automatically finding concordances between the two systems.
+* An [Application Programming Interface (API)](http://digitalathenaeus.org/tools/Casaubon-Kaibel_converter/api.php) allows to integrate converter data into external services.
 
 Contents of this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
